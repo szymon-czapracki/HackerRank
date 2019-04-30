@@ -55,3 +55,6 @@ Makefile
 .idea/
 out
 *.iml
+
+#vscode
+.vscode
